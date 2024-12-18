@@ -1,4 +1,4 @@
-# Dice Game
+# Time Trial Dice Game
 
 A simple dice game for one or multiple players. The game involves rolling dice, making strategic decisions on re-rolls, and competing to achieve the highest score.
 
