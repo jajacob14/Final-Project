@@ -71,32 +71,12 @@ Timing Analysis
 
 The game includes timing features to measure CPU time for performance analysis. At the end of each game, the total CPU time used during gameplay is displayed.
 
-Dependencies
-
-Python 3.x
-
-Seaborn (optional, for visualizations)
-
 Installing Dependencies
 
 If Seaborn is required for advanced visualizations:
 
 pip install seaborn
 
-Example Output
-
-Player 1's turn:
-Dice rolled: 2, 5, 3
-Re-roll dice 2 (current value: 5)? (y/n) y
-Dice after re-roll: 2, 6, 3
-Player 1's score: 11
-
-Player 2's turn:
-Dice rolled: 4, 4, 4
-TUPLE OUT! You score 0 points.
-
-Player 1 wins with a total score of 50!
-Total CPU time taken: 12.45 seconds
 
 License
 
