@@ -3,7 +3,7 @@ Dice Game
 
 A simple dice game for one or multiple players. The game involves rolling dice, making strategic decisions on re-rolls, and competing to achieve the highest score.
 
-Features
+Features-
 
 Supports multiple players: Play with friends or against yourself.
 
@@ -19,7 +19,7 @@ Strategic re-rolls: Players can decide which dice to re-roll for better scores.
 
 Configurable target score: Adjust the goal for winning based on preferences.
 
-How to Play
+How to Play-
 
 Setup:
 
@@ -45,7 +45,7 @@ Winning:
 
 The first player to reach or exceed the target score wins the game.
 
-Rules
+Rules-
 
 TUPLE OUT:
 
@@ -59,7 +59,7 @@ Scoring:
 
 If neither condition occurs, the player's score is the sum of the dice values.
 
-How to Run
+How to Run-
 
 Clone the repository or download the game script.
 
@@ -67,18 +67,18 @@ Run the script using Python:
 
 python dice_game.py
 
-Timing Analysis
+Timing Analysis-
 
 The game includes timing features to measure CPU time for performance analysis. At the end of each game, the total CPU time used during gameplay is displayed.
 
-Installing Dependencies
+Installing Dependencies-
 
 If Seaborn is required for advanced visualizations:
 
 pip install seaborn
 
 
-License
+License-
 
 This game is distributed under the MIT License.
 
